@@ -38,10 +38,10 @@
 
 
 <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=illakikonusuruz&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badblli&layout=compact" >
 
 
 
-[twitter]: https://twitter.com/badblli
+[twitter]: https://twitter.com/illakikonusuruz
 [linkedin]: https://www.linkedin.com/in/buse-ad%C4%B1belli-7a684a200/
 [behance]: https://www.behance.net/bsnradblli5f34
