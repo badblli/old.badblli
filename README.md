@@ -28,18 +28,18 @@
 
 
 <br />
+<br />
 
 
 
-<details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=badblli&theme=radical" >
-</details>
 
-<details>
+
+
 <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badblli&layout=compact" >
-</details>
+
 
 
 [twitter]: https://twitter.com/badblli
