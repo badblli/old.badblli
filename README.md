@@ -8,7 +8,7 @@
 
 ## Junior Developer | Graphic Designer
 
-<font color="#898DFF">turkish coffee :coffee: is how I keep up with `<code/>` </font>
+<font color="#898DFF">turkish coffee :coffee: is how i keep up with `<code/>` </font>
 
 ### Reach out to me
 
