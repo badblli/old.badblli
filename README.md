@@ -21,7 +21,7 @@
 <br />
 
 ### My Website
-https://badblli-github-io.vercel.app/
+https://www.badblli.me/
 
 ### Tech I use
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
