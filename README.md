@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif" align="right" width="400" height="250">
+<!-- <img src="https://media.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif" align="right" width="400" height="250"> -->
+<src="https://lanyard.cnrad.dev/api/790487581589504001" align="right" width="400" height="250">
+[![Discord Presence](https://lanyard.cnrad.dev/api/790487581589504001)](https://discord.com/users/790487581589504001)
 
 <h1 align="left">
   <a href="https://git.io/typing-svg">
