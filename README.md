@@ -22,6 +22,7 @@
 
 ### My Website
 [badblli.me](https://badblli.me)
+[badblli.codes](https://badblli.codes)
 
 ### Tech I use
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
